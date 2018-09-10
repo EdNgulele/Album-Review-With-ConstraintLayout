@@ -3,4 +3,7 @@
     <string name="editor_note">On 21, Adele sings of loss and vulnerability with an assertive voice that burns with fury as she gains momentum. With production by Rick Rubin and Paul Epworth, she picks up ... </string>
     <string name="album_name">Adele 21</string>
     <string name="album_release_info">Released Jan 24, 2011 2010 XL Recordings Ltd </string>
+    <string name="album_price">$10.99 Buy</string>
+    <string name="editor_note_lable">Editor\'s note</string>
+    <string name="album_read_more_button">read more</string>
 </resources>
